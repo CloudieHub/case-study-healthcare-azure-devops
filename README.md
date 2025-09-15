@@ -1,5 +1,4 @@
-# case-study-healthcare-azure-devops
-Transforming a Healthcare SaaS Platform with Azure &amp; DevOps Automation
+
 # Cloud Case Study: Transforming a Healthcare SaaS Platform with Azure & DevOps Automation
 ## 🏗️ Architecture Diagram
 
